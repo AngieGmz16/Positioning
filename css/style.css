@@ -1,0 +1,41 @@
+.color1 {
+	background:red;
+	position: relative;
+	left:0;
+	top:0;
+	
+}
+.color2 {
+	background:blue;
+	position:absolute;
+	left: 200px;
+	
+	
+
+}
+.color3 {
+	background:#b7d84b;
+	position:relative;
+	left:0;
+	bottom:0;
+	
+}
+
+.color4 {
+	background:yellow;
+	position:relative;
+	right:0;
+	bottom:0;
+}
+.span {
+	border: solid 0;
+	width: 200px; 
+	height: 200px;
+	margin: 0px;
+}
+ 
+body{
+	margin: 0px;
+	padding: 0px;
+}	
+	
